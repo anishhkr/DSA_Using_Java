@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/anishhkr/DSA_Using_Java/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/anishhkr/DSA_Using_Java/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/anishhkr/DSA_Using_Java/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/anishhkr/DSA_Using_Java/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
