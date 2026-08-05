@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anishhkr/DSA_Using_Java/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anishhkr/DSA_Using_Java/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/anishhkr/DSA_Using_Java/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/anishhkr/DSA_Using_Java/tree/master/0367-valid-perfect-square) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anishhkr/DSA_Using_Java/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/anishhkr/DSA_Using_Java/tree/master/0217-contains-duplicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/anishhkr/DSA_Using_Java/tree/master/3731-find-missing-elements) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anishhkr/DSA_Using_Java/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anishhkr/DSA_Using_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anishhkr/DSA_Using_Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
