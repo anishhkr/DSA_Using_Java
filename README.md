@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/anishhkr/DSA_Using_Java/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/anishhkr/DSA_Using_Java/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/anishhkr/DSA_Using_Java/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/anishhkr/DSA_Using_Java/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0486-predict-the-winner](https://github.com/anishhkr/DSA_Using_Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anishhkr/DSA_Using_Java/tree/master/0877-stone-game) |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/0240-search-a-2d-matrix-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/anishhkr/DSA_Using_Java/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
