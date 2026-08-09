@@ -5,15 +5,13 @@ class Solution {
         for (int i = n - 1; i >= 0; i--) {
             suffix[i] = suffix[i + 1] + piles[i];
         }
-        Map<String, Integer> memo = new HashMap<>();
+        int[][] memo = new int[n][n + 1];
         return dfs(0, 1, piles, suffix, memo);
     }
 
-    private int dfs(int i, int M, int[] piles, int[] suffix, Map<String, Integer> memo) {
+    private int dfs(int i, int M, int[] piles, int[] suffix, int[][] memo) {
         if (i >= piles.length) return 0;
-
-        String key = i + "," + M;
-        if (memo.containsKey(key)) return memo.get(key);
+        if (memo[i][M] != 0) return memo[i][M];
 
         int n = piles.length;
         int best = 0;
@@ -22,7 +20,7 @@ class Solution {
             best = Math.max(best, suffix[i] - dfs(i + X, Math.max(M, X), piles, suffix, memo));
         }
 
-        memo.put(key, best);
+        memo[i][M] = best;
         return best;
     }
 }
