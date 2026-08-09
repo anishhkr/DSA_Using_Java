@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0486-predict-the-winner](https://github.com/anishhkr/DSA_Using_Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anishhkr/DSA_Using_Java/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/anishhkr/DSA_Using_Java/tree/master/3731-find-missing-elements) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/anishhkr/DSA_Using_Java/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/anishhkr/DSA_Using_Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anishhkr/DSA_Using_Java/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anishhkr/DSA_Using_Java/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
@@ -85,20 +87,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/anishhkr/DSA_Using_Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anishhkr/DSA_Using_Java/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/anishhkr/DSA_Using_Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anishhkr/DSA_Using_Java/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1406-stone-game-iii) |
 ## Two Pointers
 |  |
@@ -140,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anishhkr/DSA_Using_Java/tree/master/0238-product-of-array-except-self) |
+| [1140-stone-game-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
