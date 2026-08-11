@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anishhkr/DSA_Using_Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/anishhkr/DSA_Using_Java/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/anishhkr/DSA_Using_Java/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/anishhkr/DSA_Using_Java/tree/master/0217-contains-duplicate) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anishhkr/DSA_Using_Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/anishhkr/DSA_Using_Java/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/anishhkr/DSA_Using_Java/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anishhkr/DSA_Using_Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anishhkr/DSA_Using_Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/anishhkr/DSA_Using_Java/tree/master/3731-find-missing-elements) |
