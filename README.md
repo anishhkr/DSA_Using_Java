@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0486-predict-the-winner](https://github.com/anishhkr/DSA_Using_Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anishhkr/DSA_Using_Java/tree/master/0877-stone-game) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/anishhkr/DSA_Using_Java/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1140-stone-game-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/anishhkr/DSA_Using_Java/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/anishhkr/DSA_Using_Java/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/anishhkr/DSA_Using_Java/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anishhkr/DSA_Using_Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Quicksort
 |  |
