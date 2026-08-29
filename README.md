@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2029-stone-game-ix](https://github.com/anishhkr/DSA_Using_Java/tree/master/2029-stone-game-ix) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anishhkr/DSA_Using_Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anishhkr/DSA_Using_Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anishhkr/DSA_Using_Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anishhkr/DSA_Using_Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anishhkr/DSA_Using_Java/tree/master/0217-contains-duplicate) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/anishhkr/DSA_Using_Java/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anishhkr/DSA_Using_Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anishhkr/DSA_Using_Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/anishhkr/DSA_Using_Java/tree/master/3424-minimum-cost-to-make-arrays-identical) |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anishhkr/DSA_Using_Java/tree/master/0075-sort-colors) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anishhkr/DSA_Using_Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
