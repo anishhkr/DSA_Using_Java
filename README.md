@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/anishhkr/DSA_Using_Java/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/anishhkr/DSA_Using_Java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/anishhkr/DSA_Using_Java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anishhkr/DSA_Using_Java/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anishhkr/DSA_Using_Java/tree/master/0238-product-of-array-except-self) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/anishhkr/DSA_Using_Java/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/anishhkr/DSA_Using_Java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anishhkr/DSA_Using_Java/tree/master/0217-contains-duplicate) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/anishhkr/DSA_Using_Java/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/anishhkr/DSA_Using_Java/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anishhkr/DSA_Using_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/anishhkr/DSA_Using_Java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/0088-merge-sorted-array) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anishhkr/DSA_Using_Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String Matching
 |  |
