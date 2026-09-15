@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/anishhkr/DSA_Using_Java/tree/master/0115-distinct-subsequences) |
 | [0984-string-without-aaa-or-bbb](https://github.com/anishhkr/DSA_Using_Java/tree/master/0984-string-without-aaa-or-bbb) |
 | [1927-sum-game](https://github.com/anishhkr/DSA_Using_Java/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anishhkr/DSA_Using_Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anishhkr/DSA_Using_Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anishhkr/DSA_Using_Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/anishhkr/DSA_Using_Java/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anishhkr/DSA_Using_Java/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anishhkr/DSA_Using_Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/anishhkr/DSA_Using_Java/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anishhkr/DSA_Using_Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/anishhkr/DSA_Using_Java/tree/master/1510-stone-game-iv) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anishhkr/DSA_Using_Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Game Theory
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anishhkr/DSA_Using_Java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/0088-merge-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anishhkr/DSA_Using_Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anishhkr/DSA_Using_Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String Matching
 |  |
