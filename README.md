@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/anishhkr/DSA_Using_Java/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anishhkr/DSA_Using_Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/anishhkr/DSA_Using_Java/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anishhkr/DSA_Using_Java/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anishhkr/DSA_Using_Java/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/anishhkr/DSA_Using_Java/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anishhkr/DSA_Using_Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anishhkr/DSA_Using_Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Game Theory
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anishhkr/DSA_Using_Java/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anishhkr/DSA_Using_Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/anishhkr/DSA_Using_Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/3904-smallest-stable-index-ii) |
 ## Nim Game
@@ -299,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/anishhkr/DSA_Using_Java/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anishhkr/DSA_Using_Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
