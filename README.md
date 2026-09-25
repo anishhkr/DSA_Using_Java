@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anishhkr/DSA_Using_Java/tree/master/0877-stone-game) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/anishhkr/DSA_Using_Java/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1140-stone-game-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1140-stone-game-ii) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/anishhkr/DSA_Using_Java/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1386-cinema-seat-allocation](https://github.com/anishhkr/DSA_Using_Java/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/anishhkr/DSA_Using_Java/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1406-stone-game-iii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/anishhkr/DSA_Using_Java/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/anishhkr/DSA_Using_Java/tree/master/0217-contains-duplicate) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/anishhkr/DSA_Using_Java/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1386-cinema-seat-allocation](https://github.com/anishhkr/DSA_Using_Java/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anishhkr/DSA_Using_Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anishhkr/DSA_Using_Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anishhkr/DSA_Using_Java/tree/master/0217-contains-duplicate) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/anishhkr/DSA_Using_Java/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/anishhkr/DSA_Using_Java/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anishhkr/DSA_Using_Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anishhkr/DSA_Using_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/anishhkr/DSA_Using_Java/tree/master/0115-distinct-subsequences) |
 | [0984-string-without-aaa-or-bbb](https://github.com/anishhkr/DSA_Using_Java/tree/master/0984-string-without-aaa-or-bbb) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/anishhkr/DSA_Using_Java/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anishhkr/DSA_Using_Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/anishhkr/DSA_Using_Java/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anishhkr/DSA_Using_Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/anishhkr/DSA_Using_Java/tree/master/0367-valid-perfect-square) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/anishhkr/DSA_Using_Java/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anishhkr/DSA_Using_Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anishhkr/DSA_Using_Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bit Manipulation
