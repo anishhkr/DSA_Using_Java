@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/anishhkr/DSA_Using_Java/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/anishhkr/DSA_Using_Java/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/0856-score-of-parentheses) |
 | [0984-string-without-aaa-or-bbb](https://github.com/anishhkr/DSA_Using_Java/tree/master/0984-string-without-aaa-or-bbb) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anishhkr/DSA_Using_Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/anishhkr/DSA_Using_Java/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/anishhkr/DSA_Using_Java/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anishhkr/DSA_Using_Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/anishhkr/DSA_Using_Java/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anishhkr/DSA_Using_Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
