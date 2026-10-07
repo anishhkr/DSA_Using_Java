@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anishhkr/DSA_Using_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/anishhkr/DSA_Using_Java/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/anishhkr/DSA_Using_Java/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/0856-score-of-parentheses) |
 | [0984-string-without-aaa-or-bbb](https://github.com/anishhkr/DSA_Using_Java/tree/master/0984-string-without-aaa-or-bbb) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/anishhkr/DSA_Using_Java/tree/master/0046-permutations) |
+| [0301-remove-invalid-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/0301-remove-invalid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/0301-remove-invalid-parentheses) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anishhkr/DSA_Using_Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Geometry
 |  |
