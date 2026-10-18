@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anishhkr/DSA_Using_Java/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/anishhkr/DSA_Using_Java/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anishhkr/DSA_Using_Java/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/anishhkr/DSA_Using_Java/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/anishhkr/DSA_Using_Java/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/anishhkr/DSA_Using_Java/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/anishhkr/DSA_Using_Java/tree/master/0486-predict-the-winner) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anishhkr/DSA_Using_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/anishhkr/DSA_Using_Java/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/anishhkr/DSA_Using_Java/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/anishhkr/DSA_Using_Java/tree/master/0678-valid-parenthesis-string) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anishhkr/DSA_Using_Java/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/anishhkr/DSA_Using_Java/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/anishhkr/DSA_Using_Java/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/1486-xor-operation-in-an-array) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anishhkr/DSA_Using_Java/tree/master/0067-add-binary) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/anishhkr/DSA_Using_Java/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anishhkr/DSA_Using_Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/anishhkr/DSA_Using_Java/tree/master/3498-reverse-degree-of-a-string) |
