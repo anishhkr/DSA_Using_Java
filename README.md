@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/anishhkr/DSA_Using_Java/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1140-stone-game-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1140-stone-game-ii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/anishhkr/DSA_Using_Java/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1310-xor-queries-of-a-subarray](https://github.com/anishhkr/DSA_Using_Java/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/anishhkr/DSA_Using_Java/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/anishhkr/DSA_Using_Java/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1406-stone-game-iii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/anishhkr/DSA_Using_Java/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/anishhkr/DSA_Using_Java/tree/master/0231-power-of-two) |
+| [1310-xor-queries-of-a-subarray](https://github.com/anishhkr/DSA_Using_Java/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/anishhkr/DSA_Using_Java/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/1486-xor-operation-in-an-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anishhkr/DSA_Using_Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anishhkr/DSA_Using_Java/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1140-stone-game-ii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/anishhkr/DSA_Using_Java/tree/master/1310-xor-queries-of-a-subarray) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/anishhkr/DSA_Using_Java/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anishhkr/DSA_Using_Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anishhkr/DSA_Using_Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
