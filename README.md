@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1140-stone-game-ii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/anishhkr/DSA_Using_Java/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1310-xor-queries-of-a-subarray](https://github.com/anishhkr/DSA_Using_Java/tree/master/1310-xor-queries-of-a-subarray) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anishhkr/DSA_Using_Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/anishhkr/DSA_Using_Java/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/anishhkr/DSA_Using_Java/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1406-stone-game-iii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anishhkr/DSA_Using_Java/tree/master/0217-contains-duplicate) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/anishhkr/DSA_Using_Java/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anishhkr/DSA_Using_Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/anishhkr/DSA_Using_Java/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anishhkr/DSA_Using_Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/anishhkr/DSA_Using_Java/tree/master/0367-valid-perfect-square) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/anishhkr/DSA_Using_Java/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anishhkr/DSA_Using_Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anishhkr/DSA_Using_Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anishhkr/DSA_Using_Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anishhkr/DSA_Using_Java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/0088-merge-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anishhkr/DSA_Using_Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anishhkr/DSA_Using_Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anishhkr/DSA_Using_Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String Matching
