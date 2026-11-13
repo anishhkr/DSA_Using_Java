@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/anishhkr/DSA_Using_Java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/anishhkr/DSA_Using_Java/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anishhkr/DSA_Using_Java/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/anishhkr/DSA_Using_Java/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/anishhkr/DSA_Using_Java/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/anishhkr/DSA_Using_Java/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anishhkr/DSA_Using_Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/anishhkr/DSA_Using_Java/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/anishhkr/DSA_Using_Java/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/anishhkr/DSA_Using_Java/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/anishhkr/DSA_Using_Java/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/anishhkr/DSA_Using_Java/tree/master/0678-valid-parenthesis-string) |
@@ -453,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/anishhkr/DSA_Using_Java/tree/master/1267-count-servers-that-communicate) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anishhkr/DSA_Using_Java/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
