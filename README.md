@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anishhkr/DSA_Using_Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anishhkr/DSA_Using_Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anishhkr/DSA_Using_Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anishhkr/DSA_Using_Java/tree/master/3364-minimum-positive-sum-subarray) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/anishhkr/DSA_Using_Java/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anishhkr/DSA_Using_Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anishhkr/DSA_Using_Java/tree/master/3483-unique-3-digit-even-numbers) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/anishhkr/DSA_Using_Java/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anishhkr/DSA_Using_Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anishhkr/DSA_Using_Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anishhkr/DSA_Using_Java/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/anishhkr/DSA_Using_Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/3904-smallest-stable-index-ii) |
 ## Nim Game
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anishhkr/DSA_Using_Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anishhkr/DSA_Using_Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/anishhkr/DSA_Using_Java/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anishhkr/DSA_Using_Java/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anishhkr/DSA_Using_Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Quickselect
 |  |
