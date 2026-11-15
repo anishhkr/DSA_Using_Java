@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anishhkr/DSA_Using_Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anishhkr/DSA_Using_Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/anishhkr/DSA_Using_Java/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anishhkr/DSA_Using_Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anishhkr/DSA_Using_Java/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/anishhkr/DSA_Using_Java/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/anishhkr/DSA_Using_Java/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anishhkr/DSA_Using_Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anishhkr/DSA_Using_Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/anishhkr/DSA_Using_Java/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anishhkr/DSA_Using_Java/tree/master/2029-stone-game-ix) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anishhkr/DSA_Using_Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/anishhkr/DSA_Using_Java/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anishhkr/DSA_Using_Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anishhkr/DSA_Using_Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anishhkr/DSA_Using_Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anishhkr/DSA_Using_Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anishhkr/DSA_Using_Java/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/anishhkr/DSA_Using_Java/tree/master/1140-stone-game-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/anishhkr/DSA_Using_Java/tree/master/1310-xor-queries-of-a-subarray) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anishhkr/DSA_Using_Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/anishhkr/DSA_Using_Java/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anishhkr/DSA_Using_Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anishhkr/DSA_Using_Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
